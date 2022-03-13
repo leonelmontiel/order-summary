@@ -31,6 +31,10 @@ h5, h6{
     border-radius: 15px;
 }
 
+.card-body img {
+    border-radius: 10px 10px 0px 0px;
+}
+
 #card__two{
     font-size: 0.7em;
 }
