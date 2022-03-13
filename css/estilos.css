@@ -1,6 +1,7 @@
 body {
     font-size: 16px;
     font-family: 'Red Hat Display', sans-serif;
+    background-color: whitesmoke;
 }
 
 .alto__100 {
@@ -15,12 +16,13 @@ body {
     font-size: 0.8em;
 }
 
-h1 {
+h1, h2{
+    font-weight: 900;
     font-size: 1.2em;
 }
 
-h1, h6{
-    font-weight: 900;
+h2 {
+    font-size: 1.1em;
 }
 
 .text__card__two p {    
