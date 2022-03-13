@@ -15,7 +15,11 @@ body {
     font-size: 0.8em;
 }
 
-h5, h6{
+h1 {
+    font-size: 1.2em;
+}
+
+h1, h6{
     font-weight: 900;
 }
 
